@@ -1,0 +1,64 @@
+{
+    "products": [
+      {
+        "id": 0,
+        "name": "Kids Socks",
+        "price": 4.99,
+        "category_id": 1
+      },
+      {
+        "id": 1,
+        "name": "Mens Socks",
+        "price": 6.99,
+        "category_id": 1
+      },
+      {
+        "id": 2,
+        "name": "Ladies Socks",
+        "price": 7.99,
+        "category_id": 1
+      },
+      {
+        "id": 3,
+        "name": "Foot Stool",
+        "price": 14.99,
+        "category_id": 2
+      },
+      {
+        "id": 4,
+        "name": "Lava Lamp",
+        "price": 9.99,
+        "category_id": 2
+      },
+      {
+        "id": 5,
+        "name": "3 Drawer Dresser",
+        "price": 64.99,
+        "category_id": 2
+      },
+      {
+        "id": 6,
+        "name": "Air Filter",
+        "price": 6.99,
+        "category_id": 3
+      },
+      {
+        "id": 7,
+        "name": "Surge Protector",
+        "price": 8.99,
+        "category_id": 3
+      },
+      {
+        "id": 8,
+        "name": "Plastic Storage Bin",
+        "price": 3.99,
+        "category_id": 3
+      },
+      {
+        "id": 9,
+        "name": "Light Bulb",
+        "price": 1.99,
+        "category_id": 3
+      }
+    ]
+  }

@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+select {
+    display: block;
+    margin: 0 auto;
+}
+
+.hidden {
+    visibility: hidden;
+    display: none;
+}
+
+.flex-wrap {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    width: 30%;
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 2em;
+    border-radius: .5em;
+    background-color: lightblue;
+}
+
