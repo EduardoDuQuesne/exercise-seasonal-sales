@@ -4,7 +4,6 @@ const print = require('./DOMOutputter');
 
 //Add department category to product
 const formatData = (prodArray, catArray) => {
-    console.log("FORMAT CHECK");
     let newProdArray = prodArray.map(prod => {
         catArray.forEach(cat => {
             if (cat.id === prod.category_id) {
