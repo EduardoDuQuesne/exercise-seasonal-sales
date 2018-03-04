@@ -10,12 +10,10 @@ let prodData = null;
 const parseCatData = () => {
     catData = JSON.parse(event.target.responseText).categories;
     prodRequest.send();
-    console.log(catData);
-
 };
+
 const parseProdData = () => {
     let prodData = JSON.parse(event.target.responseText).products;
-    console.log(prodData);
     format(prodData, catData);
 };
 
